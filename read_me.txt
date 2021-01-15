@@ -6,9 +6,9 @@ Developed by Derek Pascarella (ateam)
 Find me on...
  -> SegaXtreme:		https://segaxtreme.net/members/ubik.21655/
  -> Dreamcast-Talk:	https://www.dreamcast-talk.com/forum/memberlist.php?mode=viewprofile&u=5766
- -> GitHub:			https://github.com/DerekPascarella
+ -> GitHub:		https://github.com/DerekPascarella
  -> Twitter:		https://twitter.com/DerekPascarella
- -> Reddit:			https://www.reddit.com/user/ate4m/
+ -> Reddit:		https://www.reddit.com/user/ate4m/
 
 
 .----------::[ Patching Instructions ]::----------
