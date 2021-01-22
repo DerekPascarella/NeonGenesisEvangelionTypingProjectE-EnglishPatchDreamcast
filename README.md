@@ -45,7 +45,7 @@ Find me on...
 | reverse-engineer the encoding used for the Japanese word bank data for those
 | levels.
 |
-| At present, all rounds these last three levels recycle the same "word" over
+| At present, all rounds of these last three levels recycle the same "word" over
 | and over again.  That word is "SDFGHJKL", hence why I described my
 | reverse-engineering efforts as "partial".  This "word" was chosen for two
 | reasons:
