@@ -53,11 +53,11 @@ Find me on...
 |   1) It consists of eight characters and thus serves to help increase the
 |      player’s total score for each round.
 |
-|   2) No combination of those letters correlates to and letters-groupings
-|      used to generate a Hiragana character.  This is important because the
-|      last three levels do not process Roman letters the same way that all
-|      previous levels do.  Instead of a 1:1 relationship between what the player
-|      types and what appears on-screen, the last three levels convert the Roman
+|   2) No combination of those letters correlates to letters-groupings used
+|      to generate a Hiragana character.  This is important because the last
+|      three levels do not process Roman letters the same way that all previous
+|      levels do.  Instead of a 1:1 relationship between what the player types
+|      and what appears on-screen, the last three levels convert the Roman
 |      letter-groups to Hiragana in order to build the Kanji from each prompt.
 |
 | A bug fix was also implemented to eliminate all instances of the player being
