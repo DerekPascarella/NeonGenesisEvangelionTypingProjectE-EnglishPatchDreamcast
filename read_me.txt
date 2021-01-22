@@ -147,10 +147,10 @@ Find me on...
 .-----------------::[ Changelog ]::-----------------
 |
 |  -> 2021-01-22 (v1.5)
-|		-Levels 5, 6, and bonus level 7 now beatable (reduced playability).
-|		-Fixed colon (:) bug in level 1.
+|       -Levels 5, 6, and bonus level 7 now beatable (reduced playability).
+|       -Fixed colon (:) bug in level 1.
 |
 |  -> 2021-01-14 (v1.0)
-|		-Initial release.
+|       -Initial release.
 |
 `---------------------------------------------------
