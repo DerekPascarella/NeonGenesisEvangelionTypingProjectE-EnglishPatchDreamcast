@@ -17,7 +17,7 @@ Find me on...
 |
 | 2) Drag the "gdi" folder onto the "extract_gdi.bat" file.  A new folder called
 |    "gdi Extracted" will be created.  This folder contains all of the data files
-|    from the game.  Do not delete the "gdi" folder.
+|    from the game.
 |
 | 3) Copy all of the files from the "patched_files" folder to the "gdi Extracted"
 |    folder, choosing to overwrite existing files when prompted.
