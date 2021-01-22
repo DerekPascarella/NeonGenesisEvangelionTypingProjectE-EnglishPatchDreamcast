@@ -1,3 +1,4 @@
+<pre>
 Neon Genesis Evangelion - Typing Project E
 English Translation v1.5
 
@@ -154,3 +155,4 @@ Find me on...
 |		-Initial release.
 |
 `---------------------------------------------------
+</pre>
