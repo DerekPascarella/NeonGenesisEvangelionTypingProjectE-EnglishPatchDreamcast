@@ -254,7 +254,7 @@ Find me on...
 |      -Romanized Japanese wordbanks from levels 2, 3, and 4 now fully
 |       translated and localized.
 |      -Levels 5, 6, and bonus level 7 now fully translated, localized,
-|       playable,
+|       playable, and enjoyable.
 |
 | -> 2021-01-22 (v1.5)
 |      -Levels 5, 6, and bonus level 7 now beatable (reduced playability).
