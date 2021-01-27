@@ -1,5 +1,5 @@
 <pre>
-Neon Genesis Evangelion - Typing Project E
+Neon Genesis Evangelion - Typing Project E (Shinseiki Evangelion - Typing E Keikaku)
 English Translation v2.0
 
 Developed by Derek Pascarella (ateam)
