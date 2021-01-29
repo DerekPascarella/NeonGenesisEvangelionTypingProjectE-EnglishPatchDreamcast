@@ -45,7 +45,7 @@ Find me on...
 |
 | PLEASE NOTE THAT IN ORDER FOR LEVEL 5, LEVEL 6, AND THE BONUS LEVEL 7 TO BE
 | PLAYABLE, KEEP THE KEYBOARD SETTINGS ON THE DEFAULT "ROMANJI" SETTING AND DO
-| NOT MODIFY AND KEY COMBINATIONS IN THE KEYBOARD SETTINGS MENU.
+| NOT MODIFY ANY KEY COMBINATIONS IN THE KEYBOARD SETTINGS MENU.
 | 
 | There were two major challenges that I set out to tackle for version 2.  The
 | first was to swap out any Romanized Japanese wordbanks for localized English
