@@ -199,7 +199,8 @@ Find me on...
 | Levels 5, 6, and the bonus level have only had their menus, dialog boxes and
 | screens translated.  However, the levels are not yet playable by a
 | non-Japanese speaker.  My goal is to complete a playable version of those
-| levels for version 2.  Allow me to elaborate with more detail…
+| levels for version 2.  Allow me to elaborate with more detail...
+|
 | Part of what made translating this game so attractive to me is the majority
 | of the game being QWERTY-keyboard friendly, where an English speaker with
 | access to the standard Dreamcast keyboard is able to play and complete each
