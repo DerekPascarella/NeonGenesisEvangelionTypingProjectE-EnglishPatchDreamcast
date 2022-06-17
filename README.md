@@ -1,5 +1,5 @@
 #### Download this patch in DCP format for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a>:
-  * <a href="(https://drive.google.com/file/d/167wOoTTiUGOV7KiVUQQCFppmw5maelLi/view?usp=sharing">Neon Genesis Evangelion - Typing Project E (English v2.0).dcp</a>
+  * <a href="https://drive.google.com/u/0/uc?id=167wOoTTiUGOV7KiVUQQCFppmw5maelLi&export=download">Neon Genesis Evangelion - Typing Project E (English v2.0).dcp</a>
 <br>
 <pre>
 Neon Genesis Evangelion - Typing Project E (Shinseiki Evangelion - Typing E Keikaku)
